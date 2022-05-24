@@ -10,6 +10,14 @@ This session will guide you through using VS Code and Python with some common da
 
 ---
 
+Video explanations:
+Video 1: https://youtu.be/6spbhEu9nM4
+Video 2: https://youtu.be/UG3ZnkB125w
+Video 3: https://youtu.be/U6fsp3sBy3U
+Video 4: https://youtu.be/ssUeQcwzPyE
+Video 5: https://youtu.be/gSrXFIOibik
+Video 6: https://youtu.be/fcXrNhJQQdI
+
 ### Where to go from here:
 
 [Microsoft Build - Intro to Data Science](https://docs.microsoft.com/en-us/shows/dev-intro-to-data-science/)
